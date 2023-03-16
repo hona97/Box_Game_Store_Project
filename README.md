@@ -41,3 +41,5 @@ MOMO_PARTNER_CODE=MOMOBKUN20180529 MOMO_ACCESS_KEY=klm05TvNBzhg7h7j MOMO_SECRET_
 17. Momo card number: 9704 0000 0000 0018 card holder: NGUYEN VAN A issuing date: 03/07 otp password: OTP
 
 18. Finally, run php artisan serve.
+
+Your site live at: https://hona97.github.io/Box_Game_Store_Project/
