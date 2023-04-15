@@ -42,3 +42,4 @@ MOMO_PARTNER_CODE=MOMOBKUN20180529 MOMO_ACCESS_KEY=klm05TvNBzhg7h7j MOMO_SECRET_
 
 18. Finally, run php artisan serve.
 
+View at: https://hona97.github.io/Box_Game_Store/
